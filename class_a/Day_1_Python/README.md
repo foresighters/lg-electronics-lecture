@@ -6,21 +6,21 @@
 
 + Python 기본1
 
-++  자료구조
+  + 자료구조
 
-++  조건문, 반복문
+  + 조건문, 반복문
 
-++  split, join, enumerate, zip 
+  + split, join, enumerate, zip 
 
-++ 함수, lambda, Map, Reduce 
+  + 함수, lambda, Map, Reduce 
 
 + Python 기본2
 
-++ 클래스
+  + 클래스
 
-++ 모듈, 패키지
+  + 모듈, 패키지
 
-++ 파일 I/O
+  + 파일 I/O
 
 ### 참고 자료
 
