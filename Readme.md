@@ -1,2 +1,3 @@
 # LG 전자 3, 4일차 교육
-- Python, Numpy
+- 9/20(수): Python
+- 9/21(목): Numpy 및 데이터 분석 기본
