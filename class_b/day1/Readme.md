@@ -3,8 +3,9 @@
 
 ### A. 수업 목표
 
-  1. 점프 투 파이썬을 1회 실습한다. (Learning by doing)
-  2. 향후 계속해서 Python 공부를 할 Roadmap을 익힌다.
+  1. Python 철학 및 기능을 이해한다.
+  2. 점프 투 파이썬을 1회 실습한다. (Learning by doing)
+  3. 향후 계속해서 Python 공부를 할 Roadmap을 익힌다.
 
 <br>
 
