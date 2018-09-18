@@ -1,6 +1,6 @@
 # 1. Python 기본
 
-### 강의 내용 
+### Curriculum
 
 + Python 소개, 실습환경 셋팅 
 
