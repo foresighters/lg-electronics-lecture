@@ -2,31 +2,32 @@
 
 ### A. Python 참고 자료
 
-1. Book
-
+- Book
   1. 점프 투 파이썬: https://wikidocs.net/book/1
   2. Intermediate Python: https://ddanggle.gitbooks.io/interpy-kr/
   3. Fluent Python: http://1.droppdf.com/files/X06AR/fluent-python-2015-.pdf
 
     을 참고하시면 향후에 Python을 공부하시는데 많은 도움이 되리라 생각합니다.
 
-2. 동영상
-
+- 동영상
   1. Python 3 Basic Tutorial: https://youtu.be/oVp1vrfL_w4
   2. Intermediate python programming: https://youtu.be/YSe9Tu_iNQQ
 
+<br>
 
 ### B. 수업 참고 자료
 
   1. PEP 20 - The Zen of python: https://wikidocs.net/7907
   2. Python 2, 3 차이 - https://tech.ssut.me/2015/07/24/python-3-is-the-future/
 
+<br>
 
 ### C. 수업 목표
 
   1. 점프 투 파이썬을 1회 코딩한다. (Learning by doing)
   2. 향후 계속해서 Python 공부를 할 Roadmap을 익힌다.
 
+<br>
 
 ### D. 수업 방식
 
@@ -37,6 +38,7 @@
     - 강사는 개인의 실습을 돕는다.
     - 10:10:30
 
+<br>
 
 ### E. 수업 일정
 
@@ -50,6 +52,7 @@
 6강 - 클래스: 14:30 - 15:30
 7강 - 모듈 및 패키지: 15:30 - 16:30
 
+<br>
 
 ### F. 상세 수업 일정
 
