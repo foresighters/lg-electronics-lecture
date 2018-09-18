@@ -21,7 +21,7 @@
 ### C. Python 참고 자료
 
 - Book
-  1. 점프 투 파이썬: https://wikidocs.net/book/1
+  1. Python 기본: https://wikidocs.net/16050
   2. Intermediate Python: https://ddanggle.gitbooks.io/interpy-kr/
   3. Fluent Python: http://1.droppdf.com/files/X06AR/fluent-python-2015-.pdf
 
