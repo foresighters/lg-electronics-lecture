@@ -29,4 +29,5 @@
 + https://dojang.io/course/view.php?id=3
 
 + edwith (https://www.edwith.org/)
+  + 머신러닝을 위한 Python
 + 생활코딩 (https://www.opentutorials.org/course/1750/10116)
