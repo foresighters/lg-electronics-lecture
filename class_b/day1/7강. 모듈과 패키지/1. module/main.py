@@ -1,5 +1,5 @@
-#from module import Math
-#from module import PI
+from module import Math
+from module import PI
 #from module import sum as mysum
 from module import *
 
